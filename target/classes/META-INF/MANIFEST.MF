@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: car service api
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: RXXAND
+Implementation-Vendor-Id: com.rahul
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/car-service-api
+Created-By: Maven Integration for Eclipse
+
